@@ -1,6 +1,0 @@
-def purchase_prod(prod_type,price):
-discount=50
-total price=price-price*discount/100;
-print("total price of product is"+prod_type+price)
-purchase_prod("monitor",50000)
-purchase_prod("laptop",25000)
